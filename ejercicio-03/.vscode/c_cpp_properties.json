@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\Users\\Eder\\Documents\\Arduino\\libraries\\AzureIoTUtility\\src",
+                "D:\\Users\\Eder\\Documents\\Arduino\\libraries\\AzureIoTHub\\src",
+                "D:\\Users\\Eder\\Documents\\Arduino\\libraries\\AzureIoTProtocol_MQTT\\src",
+                "C:\\Users\\Eder\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\Eder\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
