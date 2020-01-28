@@ -3,9 +3,11 @@
         {
             "name": "Win32",
             "includePath": [
+                "D:\\Arduino\\libraries\\AzureIoTHub\\src",
+                "D:\\Arduino\\libraries\\AzureIoTProtocol_MQTT\\src",
+                "D:\\Arduino\\libraries\\AzureIoTUtility\\src",
                 "C:\\Users\\Eder\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
-                "C:\\Users\\Eder\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\**",
-                "C:\\Users\\Eder\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\**"
+                "C:\\Users\\Eder\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\**"
             ],
             "forcedInclude": [],
             "intelliSenseMode": "msvc-x64"
